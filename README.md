@@ -8,11 +8,11 @@ It detected the faces and verifies the person, then updates their information on
 
 IDE: Pycharm community edition 2021.3.3
 #
-Also need to install c cpmpiler.
+Also need to install c compiler.
 When we install vs. code then we must select,
 
 ```bash
-  desktop devolopment with c compiler.
+  desktop development with c compiler.
 ```
 #
 Then go to Pycharm and add dependencies
@@ -29,7 +29,7 @@ Go to setting >> Project interpreter >> then add,
 
 ## Documentation
 
-Python using openCv
+This project is created with Python language using openCv
 #
 csv file used for storing data
 ```bash
